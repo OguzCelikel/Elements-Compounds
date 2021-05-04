@@ -5,12 +5,12 @@
 • Our projects must be based on Unity and contain Augmented Reality technology.\
 ● Augmented Reality Kit- Vuforia (Windows, macOS)
 
-## Augmented Reality Project Development Tools\
+## Augmented Reality Project Development Tools
 ● Unity version 2017.4.1\
 ● Vuforia 7 (Augmented Reality Tool)\
 ● Android Studio - Development tool for Unity projects on Android-based devices (needed when you use Android)
 
-## Minimum requirements\
+## Minimum requirements
 ● Single Login Page which include open and exit project buttons, etc.\
 ● When we click open button, our programs should open the main screen which should include Augmented Reality qualifications.\
 ● Our programs should be designed with Unity Game Engine.\
